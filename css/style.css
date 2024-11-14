@@ -1,0 +1,23 @@
+body{
+    background-image: url(../image/360_F_484309845_ezSzZGAyDQtUfCKT7Xr4kNzhaPHf7Bsl.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: #444444;
+}
+h2{
+    color: #444444;
+}
+.theForm{
+    border: 5px solid #444444;
+    border-radius: 10%;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+input::placeholder{
+    font-size: 10px;
+}
+table{
+    border-radius: 50%;
+    opacity: 0.9;
+}
